@@ -1,0 +1,77 @@
+{
+  "uuid": "581ca580-f919-47b8-a91a-b9a63814918f-tr-0-1001",
+  "historyId": "Allure.Tests.Test1",
+  "fullName": "Allure.Tests.Test1",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-DU0TKFR"
+    },
+    {
+      "name": "package",
+      "value": "Allure"
+    },
+    {
+      "name": "testMethod",
+      "value": "Test1"
+    },
+    {
+      "name": "testClass",
+      "value": "Tests"
+    },
+    {
+      "name": "severity",
+      "value": "normal"
+    },
+    {
+      "name": "owner",
+      "value": "Olha Melnyk"
+    },
+    {
+      "name": "suite",
+      "value": "ScreenshotTest"
+    }
+  ],
+  "links": [],
+  "name": "Test1",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": "Test1"
+  },
+  "stage": "finished",
+  "description": "Make Screenshot test\n",
+  "steps": [
+    {
+      "name": "Test1",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [
+        {
+          "name": "Console Output",
+          "source": "cc588cb80eda4287bff775390f3815d2-attachment.txt",
+          "type": "text/plain"
+        }
+      ],
+      "parameters": [],
+      "start": 1655901334806,
+      "stop": 1655901350296
+    }
+  ],
+  "attachments": [],
+  "parameters": [],
+  "start": 1655901334805,
+  "stop": 1655901350309
+}

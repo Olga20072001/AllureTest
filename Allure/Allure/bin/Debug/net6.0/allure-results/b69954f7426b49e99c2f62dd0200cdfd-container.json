@@ -1,0 +1,28 @@
+{
+  "uuid": "3dc1a20a-d4f4-4836-977a-b01a691d55da-tc-0-1000",
+  "name": "Allure.Tests.Test1",
+  "children": [
+    "deb3cdf1-c6dc-415d-9754-c955647e9899-tr-0-1001"
+  ],
+  "befores": [
+    {
+      "name": "Setup",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1655900150139,
+      "stop": 1655900150139
+    }
+  ],
+  "afters": [],
+  "links": [],
+  "start": 1655900117293,
+  "stop": 1655900150249
+}

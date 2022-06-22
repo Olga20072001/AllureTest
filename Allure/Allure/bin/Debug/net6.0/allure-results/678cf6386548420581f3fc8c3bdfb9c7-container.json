@@ -1,0 +1,10 @@
+{
+  "uuid": "0-1000-ignored",
+  "name": "Allure.Tests",
+  "children": [],
+  "befores": [],
+  "afters": [],
+  "links": [],
+  "start": 1655899107128,
+  "stop": 1655899180849
+}

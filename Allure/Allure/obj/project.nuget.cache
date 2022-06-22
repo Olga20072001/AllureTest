@@ -1,0 +1,28 @@
+{
+  "version": 2,
+  "dgSpecHash": "UL4lOTEljLJ/GxG2kfR4zHmz/BYPBS5HR+J5qDQGAiaptFn37mEfPT7724XjdQ0A/MHN10RgHXOLX4UVkcpoWw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Olha\\source\\repos\\Allure\\Allure\\Allure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Olha\\.nuget\\packages\\allure.commons\\3.5.0.73\\allure.commons.3.5.0.73.nupkg.sha512",
+    "C:\\Users\\Olha\\.nuget\\packages\\aspectinjector\\2.6.0\\aspectinjector.2.6.0.nupkg.sha512",
+    "C:\\Users\\Olha\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",
+    "C:\\Users\\Olha\\.nuget\\packages\\microsoft.codecoverage\\17.1.0\\microsoft.codecoverage.17.1.0.nupkg.sha512",
+    "C:\\Users\\Olha\\.nuget\\packages\\microsoft.net.test.sdk\\17.1.0\\microsoft.net.test.sdk.17.1.0.nupkg.sha512",
+    "C:\\Users\\Olha\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Olha\\.nuget\\packages\\microsoft.testplatform.objectmodel\\17.1.0\\microsoft.testplatform.objectmodel.17.1.0.nupkg.sha512",
+    "C:\\Users\\Olha\\.nuget\\packages\\microsoft.testplatform.testhost\\17.1.0\\microsoft.testplatform.testhost.17.1.0.nupkg.sha512",
+    "C:\\Users\\Olha\\.nuget\\packages\\mimetypesmap\\1.0.8\\mimetypesmap.1.0.8.nupkg.sha512",
+    "C:\\Users\\Olha\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\Olha\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Olha\\.nuget\\packages\\nuget.frameworks\\5.11.0\\nuget.frameworks.5.11.0.nupkg.sha512",
+    "C:\\Users\\Olha\\.nuget\\packages\\nunit\\3.13.3\\nunit.3.13.3.nupkg.sha512",
+    "C:\\Users\\Olha\\.nuget\\packages\\nunit.allure\\1.2.1.1\\nunit.allure.1.2.1.1.nupkg.sha512",
+    "C:\\Users\\Olha\\.nuget\\packages\\nunit.analyzers\\3.3.0\\nunit.analyzers.3.3.0.nupkg.sha512",
+    "C:\\Users\\Olha\\.nuget\\packages\\nunit3testadapter\\4.2.1\\nunit3testadapter.4.2.1.nupkg.sha512",
+    "C:\\Users\\Olha\\.nuget\\packages\\selenium.webdriver\\4.2.0\\selenium.webdriver.4.2.0.nupkg.sha512",
+    "C:\\Users\\Olha\\.nuget\\packages\\selenium.webdriver.chromedriver\\102.0.5005.6102\\selenium.webdriver.chromedriver.102.0.5005.6102.nupkg.sha512",
+    "C:\\Users\\Olha\\.nuget\\packages\\system.reflection.metadata\\1.6.0\\system.reflection.metadata.1.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,149 @@
+{
+  "uuid": "3ac7be72-d21b-4213-8e6f-c65506afc7d3-tr-0-1001",
+  "historyId": "Allure.Tests.ScreenshotTest",
+  "fullName": "Allure.Tests.ScreenshotTest",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-DU0TKFR"
+    },
+    {
+      "name": "package",
+      "value": "Allure"
+    },
+    {
+      "name": "testMethod",
+      "value": "ScreenshotTest"
+    },
+    {
+      "name": "testClass",
+      "value": "Tests"
+    },
+    {
+      "name": "severity",
+      "value": "normal"
+    },
+    {
+      "name": "owner",
+      "value": "Olha Melnyk"
+    },
+    {
+      "name": "feature",
+      "value": "Core"
+    },
+    {
+      "name": "suite",
+      "value": "ScreenshotTest"
+    }
+  ],
+  "links": [],
+  "name": "ScreenshotTest",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": "ScreenshotTest"
+  },
+  "stage": "finished",
+  "description": "Make Screenshot test\n",
+  "steps": [
+    {
+      "name": "ScreenshotTest",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [
+        {
+          "name": "Browser opened",
+          "status": "passed",
+          "statusDetails": {
+            "known": false,
+            "muted": false,
+            "flaky": false
+          },
+          "stage": "finished",
+          "steps": [],
+          "attachments": [],
+          "parameters": [],
+          "start": 1655903398807,
+          "stop": 1655903409863
+        },
+        {
+          "name": "Make screenshot",
+          "status": "passed",
+          "statusDetails": {
+            "known": false,
+            "muted": false,
+            "flaky": false
+          },
+          "stage": "finished",
+          "steps": [
+            {
+              "name": "ScreenshotTest",
+              "status": "passed",
+              "statusDetails": {
+                "known": false,
+                "muted": false,
+                "flaky": false
+              },
+              "stage": "finished",
+              "steps": [],
+              "attachments": [],
+              "parameters": [],
+              "start": 1655903421796,
+              "stop": 1655903421857
+            }
+          ],
+          "attachments": [
+            {
+              "name": "screenshot.png",
+              "source": "6046922fa1574822996f1ae7a03d9cb5-attachment.png",
+              "type": "image/png"
+            }
+          ],
+          "parameters": [],
+          "start": 1655903409866,
+          "stop": 1655903421857
+        },
+        {
+          "name": "Browser closed",
+          "status": "passed",
+          "statusDetails": {
+            "known": false,
+            "muted": false,
+            "flaky": false
+          },
+          "stage": "finished",
+          "steps": [],
+          "attachments": [],
+          "parameters": [],
+          "start": 1655903421863,
+          "stop": 1655903423600
+        }
+      ],
+      "attachments": [
+        {
+          "name": "Console Output",
+          "source": "a0c30b8b9b884d40bb06e0bff8a9626e-attachment.txt",
+          "type": "text/plain"
+        }
+      ],
+      "parameters": [],
+      "start": 1655903398802,
+      "stop": 1655903423619
+    }
+  ],
+  "attachments": [],
+  "parameters": [],
+  "start": 1655903398801,
+  "stop": 1655903423632
+}

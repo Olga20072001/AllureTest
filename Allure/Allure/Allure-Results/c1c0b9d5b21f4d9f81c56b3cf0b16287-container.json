@@ -1,0 +1,59 @@
+{
+  "uuid": "e4bf743f-cfbb-4ae6-8579-e40259753f74-tc-0-1000",
+  "name": "Allure.Tests.ScreenshotTest",
+  "children": [
+    "3ac7be72-d21b-4213-8e6f-c65506afc7d3-tr-0-1001"
+  ],
+  "befores": [
+    {
+      "name": "ClearResultsDir",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1655903423611,
+      "stop": 1655903423611
+    },
+    {
+      "name": "Setup",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1655903423612,
+      "stop": 1655903423612
+    }
+  ],
+  "afters": [
+    {
+      "name": "TearDown",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1655903423613,
+      "stop": 1655903423613
+    }
+  ],
+  "links": [],
+  "start": 1655903398797,
+  "stop": 1655903423684
+}
